@@ -3,6 +3,8 @@
 [![CircleCI](https://circleci.com/gh/pokedextracker/pokedextracker.com.svg?style=shield)](https://circleci.com/gh/pokedextracker/pokedextracker.com)
 [![Dependency Status](https://david-dm.org/pokedextracker/pokedextracker.com.svg)](https://david-dm.org/pokedextracker/pokedextracker.com)
 
+[![Run on Repl.it](https://repl.it/badge/github/FreebirdOS/pokedextracker.com)](https://repl.it/github/FreebirdOS/pokedextracker.com)
+
 A website to track your completion of a Living Pokedex.
 
 ## Install
